@@ -1,0 +1,19 @@
+http status codes
+https://www.tutorialspoint.com/http/http_status_codes.htm
+
+REST API (Representational State Transfer Application Programming Interface)
+https://www.youtube.com/watch?v=7YcW25PHnAA
+
+HTTP methods
+
+
+JSON
+
+
+REST API
+https://www.youtube.com/watch?v=BRdcRFvuqsE&list=PL4cUxeGkcC9jBcybHMTIia56aV21o2cZ8
+
+Postman workout=> headers,response,body; API network-oAuth  
+https://www.youtube.com/watch?v=t5n07Ybz7yI
+
+post VS put
