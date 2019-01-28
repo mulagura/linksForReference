@@ -1,2 +1,5 @@
 regex
 https://www.youtube.com/watch?v=r6I-Ahc0HB4&list=PL4cUxeGkcC9g6m_6Sld9Q4jzqdqHd2HiD
+
+•CCB project is to develop a web application for onboarding the accounts
+•Responsibility is to develop UI using Angular 5 & typescript and major responsibility is to follow the agile process in developing and delivering the screens within the scheduled timeline 
