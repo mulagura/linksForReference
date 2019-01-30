@@ -17,3 +17,6 @@ Postman workout=> headers,response,body; API network-oAuth
 https://www.youtube.com/watch?v=t5n07Ybz7yI
 
 post VS put
+PUT    /items/1      #=> update
+POST   /items        #=> create
+https://www.youtube.com/watch?v=rhTkRK53XdQ&t=176s
